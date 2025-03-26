@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Beatriz, estudiante de la carrera de Analista Programador.<br>Practico realizar documentación, codear algoritmos en C, C#,<br>Java y JavaScript.<br>Me gustan los temas de desarrollo de Software y servicios Web.<br>Amo el arte y la tecnologia. <br> Me interesa llevar adelante unas API relacionadas al arte y a la gestión de tareas.
+<h4>Soy Beatriz, estudiante de la carrera de Analista Programador.<br>Practico realizar documentación, codear algoritmos en C, C#,<br>Java y JavaScript.<br>Me gustan los temas de desarrollo de Software y servicios Web.<br>Amo el arte y la tecnologia. <br> Me interesa llevar adelante unas API relacionadas al arte y a la gestión de tareas.</h4>
 
 
 ## 🌐 Socials:

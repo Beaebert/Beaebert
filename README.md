@@ -24,7 +24,7 @@
 Plataforma de simulación y entrenamiento para cirugía robótica mínimamente invasiva.
 Permite a cirujanos ensayar trayectorias con un brazo robótico virtual antes de operar en vivo.
 
-**Mi rol:** Tech Lead & Full Stack .NET · Arquitectura desacoplada (Clean Architecture) · Scrum Master Acting
+**Mi rol:** Analista & Full Stack .NET · Arquitectura desacoplada (Clean Architecture) · Scrum Master Acting
 
 ![C#](https://img.shields.io/badge/C%23-.NET_10-239120?style=flat&logo=csharp&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor_WebAssembly-512BD4?style=flat&logo=blazor&logoColor=white)

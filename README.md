@@ -17,10 +17,28 @@
 
 ---
 
+## 🚧 En qué estoy trabajando ahora
+
+> **Justina · Simulador Quirúrgico Robótico** · [No Country Simulación Laboral - Feb 2026](https://github.com/No-Country-simulation/S02-26-Equipo-66-Vibe-Coding)
+
+Plataforma de simulación y entrenamiento para cirugía robótica mínimamente invasiva.
+Permite a cirujanos ensayar trayectorias con un brazo robótico virtual antes de operar en vivo.
+
+**Mi rol:** Tech Lead & Full Stack .NET · Arquitectura desacoplada (Clean Architecture) · Scrum Master Acting
+
+![C#](https://img.shields.io/badge/C%23-.NET_10-239120?style=flat&logo=csharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor_WebAssembly-512BD4?style=flat&logo=blazor&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core_API-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite+EF_Core-003B57?style=flat&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
 ## 📌 Repositorios Destacados
 
 | Proyecto | Descripción | Lenguaje |
 |----------|-------------|----------|
+| [control.stock](https://github.com/Beaebert/control.stock) | App Windows WinForms para gestión de stock de productos con SQL Server. Patrón DAO. Proyecto UAI. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
+| [laspokegalles](https://github.com/Beaebert/laspokegalles) | Sitio web e-commerce de galletitas temáticas con carrito de compras. Deploy en Vercel. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | [registroLluviayTemp](https://github.com/Beaebert/registroLluviayTemp) | Programa en C para guardar datos en Arrays, operar y mostrarlos. Ejercitación universitaria. | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
 | [ejercicios_univ](https://github.com/Beaebert/ejercicios_univ) | Primeros ejercicios básicos de código: lógica y programación universitaria. | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
 | [ejercicios_web](https://github.com/Beaebert/ejercicios_web) | Ejercicios de HTML y JavaScript de los cursos Alura. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
@@ -28,24 +46,16 @@
 | [sql](https://github.com/Beaebert/sql) | Curso SQL de Open Bootcamp. Fork de Open-Bootcamp/sql. | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
 | [menuConsolaPython](https://github.com/Beaebert/menuConsolaPython) | Ejercicio en Python del programa Talento Tech (Gobierno de Buenos Aires). | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beaebert&layout=donut&theme=tokyonight&langs_count=8&hide_border=true)](https://github.com/Beaebert)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beaebert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Beaebert)
-
+  
+[![Repos por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Beaebert&theme=tokyonight)](https://github.com/Beaebert)
+[![Commits por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beaebert&theme=tokyonight)](https://github.com/Beaebert)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Beaebert&theme=tokyonight&hide_border=true)](https://github.com/Beaebert)
-
 </div>
 
----
-
 ## 🛠️ Tech Stack
-
 ### 🔷 Core · C# & .NET (Foco Principal)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)

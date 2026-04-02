@@ -20,7 +20,7 @@
 
 > **Muestras de Arte · Gestor de Tareas** · [Ver Repositorio](https://github.com/Beaebert/art-exhibit-hub/tree/main)
 
-Aplicación web para la gestión de tareas e ideas, diseñada específicamente para equipos productores de exposiciones y muestras de arte. Desarrollada con Lovable.  
+Aplicación web para la gestión de tareas e ideas, diseñada específicamente para equipos productores de exposiciones y muestras de arte. Desarrollada con Lovable (Desarrollo IA con Stack React, TypeScript, Supabase/PostgreSQL).  
 Actualmente enfocada en su desarrollo continuo y aplicando prácticas de **QA Testing Manual** para asegurar la calidad y usabilidad del producto.
 
 ![Web App](https://img.shields.io/badge/Web_App-000000?style=flat&logo=web&logoColor=white)

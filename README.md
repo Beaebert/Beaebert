@@ -1,10 +1,9 @@
 # ¡Hola! Soy Beatriz Ebert 👩‍💻
 
-**Analista Programadora · Full-Stack .NET Developer C# · Clean Architecture · Blazor · SQL**  
-📍 Buenos Aires, Argentina
+**Analista Programadora · Full-Stack .NET Developer C# · Clean Architecture · Blazor · SQL** 📍 Buenos Aires, Argentina
 
 > Apasionada por el desarrollo de software, las API y la intersección entre tecnología y arte.  
-> Actualmente explorando el ecosistema Microsoft: .NET 10, Blazor WebAssembly, Azure y más.
+> Actualmente explorando el ecosistema Microsoft (.NET 10, Blazor WebAssembly, Azure) y experimentando sobre QA Testing Manual.
 
 ---
 
@@ -19,32 +18,24 @@
 
 ## 🚧 En qué estoy trabajando ahora
 
-> **Justina · Simulador Quirúrgico Robótico** · [No Country Simulación Laboral - Feb 2026](https://github.com/No-Country-simulation/S02-26-Equipo-66-Vibe-Coding)
+> **Muestras de Arte · Gestor de Tareas** · [Ver Repositorio](https://github.com/Beaebert/art-exhibit-hub/tree/main)
 
-Plataforma de simulación y entrenamiento para cirugía robótica mínimamente invasiva.
-Permite a cirujanos ensayar trayectorias con un brazo robótico virtual antes de operar en vivo.
+Aplicación web para la gestión de tareas e ideas, diseñada específicamente para equipos productores de exposiciones y muestras de arte. Desarrollada con Lovable.  
+Actualmente enfocada en su desarrollo continuo y aplicando prácticas de **QA Testing Manual** para asegurar la calidad y usabilidad del producto.
 
-**Mi rol:** Analista & Full Stack .NET · Arquitectura desacoplada (Clean Architecture) · Scrum Master Acting
-
-![C#](https://img.shields.io/badge/C%23-.NET_10-239120?style=flat&logo=csharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor_WebAssembly-512BD4?style=flat&logo=blazor&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core_API-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite+EF_Core-003B57?style=flat&logo=sqlite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Web App](https://img.shields.io/badge/Web_App-000000?style=flat&logo=web&logoColor=white)
+![QA Testing](https://img.shields.io/badge/QA_Manual_Testing-4CAF50?style=flat&logo=testinglibrary&logoColor=white)
 
 ---
 ## 📌 Repositorios Destacados
 
-| Proyecto | Descripción | Lenguaje |
+| Proyecto | Descripción | Tecnologías |
 |----------|-------------|----------|
-| [control.stock](https://github.com/Beaebert/control.stock) | App Windows WinForms para gestión de stock de productos con SQL Server. Patrón DAO. Proyecto UAI. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
+| [Muestras de Arte](https://github.com/Beaebert/art-exhibit-hub/tree/main) | Gestor de tareas e ideas para la producción de muestras artísticas. | ![Web App](https://img.shields.io/badge/Web_App-000000?style=flat) |
+| [Justina · Simulador Quirúrgico](https://github.com/No-Country-simulation/S02-26-Equipo-66-Vibe-Coding) | Plataforma de simulación robótica. Arquitectura desacoplada, rol de Analista y Scrum Master Acting. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white) |
+| [control.stock](https://github.com/Beaebert/control.stock) | App Windows WinForms para gestión de stock de productos con SQL Server. Patrón DAO. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
+| [menuConsolaPython](https://github.com/Beaebert/menuConsolaPython) | Aplicación de consola para control de stock. Ejercicio del programa Talento Tech. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [laspokegalles](https://github.com/Beaebert/laspokegalles) | Sitio web e-commerce de galletitas temáticas con carrito de compras. Deploy en Vercel. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [registroLluviayTemp](https://github.com/Beaebert/registroLluviayTemp) | Programa en C para guardar datos en Arrays, operar y mostrarlos. Ejercitación universitaria. | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
-| [ejercicios_univ](https://github.com/Beaebert/ejercicios_univ) | Primeros ejercicios básicos de código: lógica y programación universitaria. | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
-| [ejercicios_web](https://github.com/Beaebert/ejercicios_web) | Ejercicios de HTML y JavaScript de los cursos Alura. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| [java-playground](https://github.com/Beaebert/java-playground) | Ejemplos de versiones de Java. Fork de antonmry/java-playground. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| [sql](https://github.com/Beaebert/sql) | Curso SQL de Open Bootcamp. Fork de Open-Bootcamp/sql. | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
-| [menuConsolaPython](https://github.com/Beaebert/menuConsolaPython) | Ejercicio en Python del programa Talento Tech (Gobierno de Buenos Aires). | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ## 📊 Estadísticas de GitHub
 
